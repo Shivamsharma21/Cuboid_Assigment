@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165158307098",
+    "project_id": "cuboid-assigment",
+    "storage_bucket": "cuboid-assigment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165158307098:android:49c43999be1992e90518a3",
+        "android_client_info": {
+          "package_name": "com.example.cuboidassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165158307098-53vkuqshmufrel6l9go90vrjf650mhkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6tX3VXPoUzDbFea7yDUTOOhEJ6zlvbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165158307098-53vkuqshmufrel6l9go90vrjf650mhkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
